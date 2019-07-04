@@ -16,7 +16,7 @@ public class StreamsApp {
 	//	app.transformar();
 		app.contar();
 		app.limitar();
-		System.out.println("ANDALUCIA");
+		System.out.println("AN DALUCIA");
 	}
 
 	public StreamsApp() {
